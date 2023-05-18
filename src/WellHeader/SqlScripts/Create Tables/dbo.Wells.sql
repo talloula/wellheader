@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Wells]
+(
+	[WellID] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [WellName] VARCHAR(255) NULL
+)
