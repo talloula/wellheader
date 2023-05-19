@@ -28,9 +28,7 @@ public partial class WellheaderDbContext : DbContext
     {
         modelBuilder.Entity<Well>(entity =>
         {
-            entity.HasKey(e => e.WellID).HasName("PK__Wells__E955CC1C76D95E60");
 
-            entity.Property(e => e.WellID).HasColumnName("WellID");
             entity.Property(e => e.WellName)
                 .HasMaxLength(255)
                 .IsUnicode(false);
