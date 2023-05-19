@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Security.Policy;
-using WellHeader.Models;
+using WellHeader.Entities;
 
 namespace WellHeader.Controllers
 {

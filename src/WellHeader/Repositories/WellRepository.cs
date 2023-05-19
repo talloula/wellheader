@@ -1,6 +1,5 @@
 ﻿using System.Linq;
 using WellHeader.DAL;
-using WellHeader.Models;
 using WellHeader.Entities;
 using WellHeader.Interfaces;
 using System.Collections.Generic;

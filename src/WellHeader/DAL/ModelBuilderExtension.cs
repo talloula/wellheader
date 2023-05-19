@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WellHeader.Entities;
-using WellHeader.Models;
+
 
 namespace WellHeader.DAL
 {

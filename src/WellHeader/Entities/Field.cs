@@ -1,4 +1,4 @@
-﻿namespace WellHeader.Models
+﻿namespace WellHeader.Entities
 {
     public class Field
     {

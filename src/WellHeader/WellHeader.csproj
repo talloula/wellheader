@@ -33,6 +33,7 @@
     <Folder Include="Authentication\" />
     <Folder Include="Helpers\" />
     <Folder Include="Migrations\" />
+    <Folder Include="Models\" />
     <Folder Include="SqlScripts\Seed Data\" />
   </ItemGroup>
 

@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Configuration;
-using WellHeader.Models;
 using WellHeader.Repositories;
 using WellHeader.Interfaces;
 
